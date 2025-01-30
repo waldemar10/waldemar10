@@ -1,9 +1,8 @@
-<h1 align="center">Hallo 👋, Ich bin Waldemar</h1>
-<h3 align="center">Leidenschaftlicher Entwickler mit einer Begeisterung für innovative Technologien und kreative Lösungen</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">I'm a developer who loves learning new technologies and creating aesthetic UX solutions</h3>
 
 <p align="center">
-  Willkommen auf meinem Profil! 🚀 Ich bin ein Entwickler, der stets nach neuen Herausforderungen sucht, um spannende Projekte zu realisieren. 
-  Egal ob Web, Mobile oder Backend – ich liebe es, funktionale und ästhetische Lösungen zu erschaffen.
+  Currently looking for new challenges! 🚀 
 </p>
 
 
