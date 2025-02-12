@@ -1,8 +1,14 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">I'm a developer who loves learning new technologies and creating aesthetic UX solutions</h3>
+<h3 align="left"> I'm a passionate developer with a love for learning new technologies and crafting beautiful, user-centric experiences. 
+  I thrive on solving complex problems and turning ideas into elegant, functional solutions.</h3>
+  
+---
 
-<p align="center">
-  Currently looking for new challenges! 🚀 
+<p align="left">
+  💻 I specialize in creating clean, maintainable code and designing intuitive user interfaces. <br>
+  🌱 Currently, I'm diving deeper into PHP & Java. <br>
+  🚀 Always on the lookout for new challenges and opportunities to grow! <br>
+  📫 Have a question or want to collaborate? Feel free to reach out via email at <a href="mailto:waljuscontact@gmail.com">waljuscontact@gmail.com</a>!
 </p>
 
 
@@ -12,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
