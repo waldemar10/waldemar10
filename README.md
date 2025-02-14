@@ -6,9 +6,8 @@
 
 <p align="left">
   💻 I specialize in creating clean, maintainable code and designing intuitive user interfaces. <br>
-  🌱 Currently, I'm diving deeper into PHP & Java. <br>
-  🚀 Always on the lookout for new challenges and opportunities to grow! <br>
-  📫 Have a question or want to collaborate? Feel free to reach out via email at <a href="mailto:waljuscontact@gmail.com">waljuscontact@gmail.com</a>!
+  🚀 Always looking for new challenges and growth opportunities! <br>
+  📫 Have a question or want to collaborate? Feel free to reach me out via email <a href="mailto:waljuscontact@gmail.com">waljuscontact@gmail.com</a>!
 </p>
 
 
