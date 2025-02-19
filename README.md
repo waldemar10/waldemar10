@@ -1,16 +1,7 @@
 <h1 align="center">Welcome 👋</h1>
 <h3 align="left"> I'm a passionate developer with a love for learning new technologies and crafting beautiful, user-centric experiences. 
-  I thrive on solving complex problems and turning ideas into elegant, functional solutions.</h3>
+  I love solving complex problems and turning ideas into elegant, functional solutions.</h3>
   
----
-
-<p align="left">
-  💻 I specialize in creating clean, maintainable code and designing intuitive user interfaces. <br>
-  🚀 Always looking for new challenges and growth opportunities! <br>
-  📫 Have a question or want to collaborate? Feel free to reach me out via email <a href="mailto:waljuscontact@gmail.com">waljuscontact@gmail.com</a>!
-</p>
-
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
