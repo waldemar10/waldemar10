@@ -1,8 +1,4 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="left"> I'm a passionate developer with a love for learning new technologies and crafting beautiful, user-centric experiences. 
-  I love solving complex problems and turning ideas into elegant, functional solutions.</h3>
-  
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -56,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
